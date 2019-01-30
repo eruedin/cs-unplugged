@@ -42,11 +42,11 @@ msgstr "13 Stellen"
 
 #: resources/generators/BarcodeChecksumPosterResourceGenerator.py:24
 msgid "Barcode length"
-msgstr "Barcodelänge"
+msgstr "Strichcodelänge"
 
 #: resources/generators/BarcodeChecksumPosterResourceGenerator.py:48
 msgid "{} Digit Barcode"
-msgstr "{}-stelliger Barcode"
+msgstr "{}er Strichcode"
 
 #: resources/generators/BarcodeChecksumPosterResourceGenerator.py:53
 msgid "Separate!"
@@ -206,15 +206,15 @@ msgstr "Modulo"
 
 #: resources/generators/NumberHuntResourceGenerator.py:14
 msgid "Easy Numbers (2 digits)"
-msgstr "Einfache Zahlen (2-stellig)"
+msgstr "Einfache Zahlen (2stellig)"
 
 #: resources/generators/NumberHuntResourceGenerator.py:15
 msgid "Medium Numbers (3 digits)"
-msgstr "Mittelschwere Zahlen (3-stellig)"
+msgstr "Mittelschwere Zahlen (3stellig)"
 
 #: resources/generators/NumberHuntResourceGenerator.py:16
 msgid "Hard Numbers (4 digits)"
-msgstr "Schwierige Zahlen (4-stellig)"
+msgstr "Schwierige Zahlen (4stellig)"
 
 #: resources/generators/NumberHuntResourceGenerator.py:17
 msgid "None (Blank)"
@@ -547,7 +547,7 @@ msgstr "Kleine Zahlen (1 bis 10)"
 
 #: resources/generators/SortingNetworkCardsResourceGenerator.py:23
 msgid "Large numbers (7 digit numbers)"
-msgstr "Große Zahlen (7-stellige Zahlen)"
+msgstr "Große Zahlen (7stellige Zahlen)"
 
 #: resources/generators/SortingNetworkCardsResourceGenerator.py:27
 msgid "Letters"
@@ -585,15 +585,15 @@ msgstr "Kartentyp"
 
 #: resources/generators/SortingNetworkResourceGenerator.py:10
 msgid "Easy Numbers (1 digits)"
-msgstr "Einfache Zahlen (1-stellig)"
+msgstr "Einfache Zahlen (1stellig)"
 
 #: resources/generators/SortingNetworkResourceGenerator.py:11
 msgid "Medium Numbers (2 digits)"
-msgstr "Mittelschwere Zahlen (2-stellig)"
+msgstr "Mittelschwere Zahlen (2stellig)"
 
 #: resources/generators/SortingNetworkResourceGenerator.py:12
 msgid "Hard Numbers (3 digits)"
-msgstr "Schwierige Zahlen (3-stellig)"
+msgstr "Schwierige Zahlen (3stellig)"
 
 #: resources/generators/SortingNetworkResourceGenerator.py:13
 msgid "None (Blank - Useful as template)"
@@ -801,7 +801,7 @@ msgstr "Glossar"
 
 #: templates/base.html:236
 msgid "Feedback"
-msgstr "Feedback"
+msgstr "Rückmeldungen"
 
 #: templates/base.html:241 templates/general/contact.html:7
 msgid "Contact"
@@ -809,7 +809,7 @@ msgstr "Kontakt"
 
 #: templates/base.html:265
 msgid "The CS Unplugged material is open source on <a href=\"https://github.com/uccser/cs-unplugged\">GitHub</a>, and this website's content is shared under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International license</a>. The CS Unplugged is a project by the <a href=\"https://www.canterbury.ac.nz/engineering/schools/csse/research/cse/\">Computer Science Education Research Group</a> at the <a href=\"http://www.canterbury.ac.nz/\">University of Canterbury</a>, New Zealand."
-msgstr "Das Material von CS Unplugged steht als Open-Source-Material auf <a href=\"https://github.com/uccser/cs-unplugged\">GitHub</a> zur Verfügung und die Inhalte dieser Website sind unter einer <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">internationalen Creative Commons Attribution-ShareAlike 4.0 Lizenz</a> verfügbar. CS Unplugged ist ein Projekt der <a href=\"https://www.canterbury.ac.nz/engineering/schools/csse/research/cse/\">Computer Science Education Research Group</a> der <a href=\"http://www.canterbury.ac.nz/\">University of Canterbury</a>, Neuseeland."
+msgstr "Das Material von CS Unplugged steht als quelloffenes Material auf <a href=\"https://github.com/uccser/cs-unplugged\">GitHub</a> zur Verfügung und die Inhalte dieser Website sind unter einer <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">internationalen Creative Commons Attribution-ShareAlike 4.0 Lizenz</a> verfügbar. CS Unplugged ist ein Projekt der <a href=\"https://www.canterbury.ac.nz/engineering/schools/csse/research/cse/\">Computer Science Education Research Group</a> der <a href=\"http://www.canterbury.ac.nz/\">University of Canterbury</a>, Neuseeland."
 
 #: templates/base.html:288
 #, python-format
@@ -853,7 +853,7 @@ msgstr "Weitere Informationen über die Prinzipien von CS Unplugged finden Sie u
 
 #: templates/general/base.html:7
 msgid "About pages"
-msgstr "Info-Seiten"
+msgstr "Informations-Seiten"
 
 #: templates/general/base.html:11
 #: templates/general/computational-thinking.html:8
@@ -1155,7 +1155,7 @@ msgstr "Kreativer Content-Entwickler &amp; Grafiker"
 
 #: templates/general/people.html:59
 msgid "Community Contributors"
-msgstr "Community-Beiträge"
+msgstr "Gemeinschafts-Beiträge"
 
 #: templates/general/people.html:68
 msgid "Translations"
